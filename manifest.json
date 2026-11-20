@@ -1,0 +1,1 @@
+{"name":"Jarvis Assistant","short_name":"Jarvis","start_url":"./","scope":"./","display":"standalone","background_color":"#07111f","theme_color":"#07111f","description":"Your voice-ready personal assistant.","icons":[{"src":"jarvis.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
